@@ -1,0 +1,4 @@
+Order_Status,count,mean,median,min,max
+Cancelled,46,36.52173913043478,38.5,10.0,53.0
+Delayed,47,36.191489361702125,35.0,13.0,62.0
+Delivered,400,36.1225,35.0,10.0,75.0

@@ -1,0 +1,3 @@
+Order_ID,City,Restaurant,Order_Value,Distance_km,Delivery_Time_Min,Order_Status,Payment_Mode,Order_Hour
+FD00057,Faridabad,Spice Hub,479.34,3.5,71.0,Delivered,Card,10
+FD00454,Noida,Spice Hub,497.76,6.9,75.0,Delivered,UPI,20

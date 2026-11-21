@@ -195,7 +195,7 @@ with open(OUTPUT_DIR/"analysis_summary.txt", "w", encoding="utf-8") as f:
     f.write("Revenue pivot:\\n" + revenue_pivot.to_string() + "\\n\\n")
     f.write("Recommendations:\\n" + "\\n".join(f"{i}. {r}" for i, r in enumerate(recommendations, 1)))
 
-print("\\nTASK 123: RECOMMENDATIONS")
+print("\\nTASK 15: RECOMMENDATIONS")
 for i, recommendation in enumerate(recommendations, 1):
     print(f"{i}. {recommendation}")
 

@@ -1,14 +1,3 @@
-"""
-Project 8: Food Delivery Operations Analytics
-Tasks 109-123 | Beginner-friendly Python Data Analytics project
-
-Run:
-    pip install pandas numpy
-    python food_delivery_analysis.py
-
-The script expects 08_food_delivery.csv in the same folder.
-It saves cleaned data, tables, and text summaries in the outputs/ folder.
-"""
 
 from pathlib import Path
 import pandas as pd
